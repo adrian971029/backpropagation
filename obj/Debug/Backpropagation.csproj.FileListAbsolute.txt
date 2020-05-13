@@ -12,3 +12,17 @@ C:\Users\adriananselmodeltoro\Personal\Facultade\Backpropagation\obj\Debug\Backp
 C:\Users\adriananselmodeltoro\Personal\Facultade\Backpropagation\obj\Debug\Backpropagation.csproj.GenerateResource.cache
 C:\Users\adriananselmodeltoro\Personal\Facultade\Backpropagation\obj\Debug\Backpropagation.exe
 C:\Users\adriananselmodeltoro\Personal\Facultade\Backpropagation\obj\Debug\Backpropagation.pdb
+C:\Users\rdrgc\Source\Repos\backpropagation\bin\Debug\Backpropagation.exe.config
+C:\Users\rdrgc\Source\Repos\backpropagation\bin\Debug\Backpropagation.exe
+C:\Users\rdrgc\Source\Repos\backpropagation\bin\Debug\Backpropagation.pdb
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation.csprojAssemblyReference.cache
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\MainWindow.g.cs
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\App.g.cs
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation_MarkupCompile.cache
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation_MarkupCompile.lref
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\MainWindow.baml
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation.g.resources
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation.Properties.Resources.resources
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation.exe
+C:\Users\rdrgc\Source\Repos\backpropagation\obj\Debug\Backpropagation.pdb

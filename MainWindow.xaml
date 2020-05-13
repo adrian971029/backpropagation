@@ -32,7 +32,7 @@
                         FontSize="20"
                         FontWeight="Bold"
                         Foreground="White"
-                        Background="BurlyWood"/>
+                        Background="BurlyWood" Click="Button_Click"/>
 
             </StackPanel>
 
