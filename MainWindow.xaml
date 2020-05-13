@@ -26,13 +26,15 @@
                         VerticalAlignment="Center"
                         Grid.Row="0">
 
-                <Button Height="80" 
+                <Button x:Name="btnImagem"
+                        Height="80" 
                         Width="120"
                         Content="Imagem"
                         FontSize="20"
                         FontWeight="Bold"
                         Foreground="White"
-                        Background="BurlyWood" Click="Button_Click"/>
+                        Background="BurlyWood"
+                        Click="btnImagem_Click"/>
 
             </StackPanel>
 
@@ -40,13 +42,15 @@
                         VerticalAlignment="Center"
                         Grid.Row="1">
 
-                <Button Height="80" 
+                <Button x:Name="btnRodar"
+                        Height="80" 
                         Width="120"
                         Content="Rodar"
                         FontSize="20"
                         FontWeight="Bold"
                         Foreground="White"
-                        Background="BurlyWood"/>
+                        Background="BurlyWood"
+                        Click="btnRodar_Click"/>
 
             </StackPanel>
 
@@ -54,13 +58,15 @@
                         VerticalAlignment="Center"
                         Grid.Row="2">
 
-                <Button Height="80" 
+                <Button x:Name="btnTreinar"
+                        Height="80" 
                         Width="120" 
                         Content="Treinar"
                         FontSize="20"
                         FontWeight="Bold"
                         Foreground="White"
-                        Background="BurlyWood"/>
+                        Background="BurlyWood"
+                        Click="btnTreinar_Click"/>
 
             </StackPanel>
 
@@ -74,7 +80,8 @@
                        FontSize="16"
                        Margin="16"/>
 
-            <Image Height="320"
+            <Image x:Name="imgImagem"
+                   Height="320"
                    Margin="16"/>
 
         </StackPanel>
@@ -87,7 +94,8 @@
                        FontSize="16"
                        Margin="16"/>
 
-            <Image Height="320"
+            <Image x:Name="imgResultado"
+                   Height="320"
                    Margin="16"/>
 
         </StackPanel>
