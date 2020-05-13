@@ -23,8 +23,19 @@ namespace Backpropagation
     /// Interação lógica para MainWindow.xam
     /// </summary>
     public partial class MainWindow : Window
-{
+    {
         private Bitmap bitmapImagem;
+        public readonly int EPOCAS_TREINAMENTO = 10000;
+        public readonly double[,,] DADOS_TREINAMENTO_OU = new Double[,,] {{{0,0,1},
+                                                              {0,1,1},
+                                                              {1,0,1},
+                                                              {1,1,1}}};
+        public readonly Double[,,] DADOS_TREINAMENTO_E = new Double[,,] {{{0,0,1},
+                                                             {0,1,0},
+                                                             {1,0,0},
+                                                             {1,1,1}}};
+
+
 
         public MainWindow()
         {
@@ -42,11 +53,29 @@ namespace Backpropagation
         }
 
         private void btnRodar_Click(object sender, RoutedEventArgs e) {
-
+            StreamWriter x;
+            string CaminhoNome = "D:\\Rodrigo\\Desktop\\VERIFICAR\\execucao.txt";
+            x = File.CreateText(CaminhoNome);
+            Backpropagation backpropagation = new Backpropagation();
+            double[] result = new double[] { 0, 0, 0, 0 };
+            for (int i = 0; i < DADOS_TREINAMENTO_E.Length; i++)
+            {
+                result[i] = backpropagation.busca(DADOS_TREINAMENTO_E[i,0]).getNeuronios()[Backpropagation.NEURONIO_ENTRADA + Backpropagation.NEURONIO_OCULTO].getSaida();
+                x.WriteLine(result); ;
+            }
+            x.Close();
         }
 
         private void btnTreinar_Click(object sender, RoutedEventArgs e) {
-
+            StreamWriter x;
+            string CaminhoNome = "D:\\Rodrigo\\Desktop\\VERIFICAR\\treinamento.txt";
+            x = File.CreateText(CaminhoNome);
+            Backpropagation backpropagation = new Backpropagation();
+            for (int i = 0; i < DADOS_TREINAMENTO_E.Length; i++)
+            {
+                x.WriteLine(backpropagation.busca(DADOS_TREINAMENTO_E[i,0]).recalculaErro(DADOS_TREINAMENTO_E[i, 1, 0]));
+            }
+            x.Close();
         }
 
         private void pegacor()
@@ -70,14 +99,18 @@ namespace Backpropagation
 
 
             StreamWriter x;
-            string CaminhoNome = "D:\\Rodrigo\\Desktop\\VERIFICAR\\arq01.txt";
+            string CaminhoNome = "D:\\Rodrigo\\Desktop\\VERIFICAR\\cores.txt";
             x = File.CreateText(CaminhoNome);
             for (int i = 0; i < freq.Length; i++)
             {
-                x.WriteLine(i+": " + freq[i]); ;
+                x.WriteLine(i + ": " + freq[i]); ;
             }
             x.Close();
 
         }
     }
 }
+
+
+
+//https://www.youtube.com/watch?v=qWLjKsgo3sE

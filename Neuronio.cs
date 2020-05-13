@@ -11,7 +11,7 @@ namespace Backpropagation
        //representara um neuronio do Backpropagation
 
         //tipo de camada a qual o neuronio pertence
-        private BackpropagationClass.LayerType layerType;
+        private Backpropagation.LayerType layerType;
         //limiar definida aleatoriamente TODO: entender o que e
         private double threshold = 0.5 - 1;//TODO: substituir 1 por valor aleatorio
         //pesos definidos aleatoriamente
@@ -21,7 +21,7 @@ namespace Backpropagation
         //erro
         private double erro = 0;
 
-        public Neuronio(BackpropagationClass.LayerType layerType)
+        public Neuronio(Backpropagation.LayerType layerType)
         {
             this.layerType = layerType;
         }
@@ -38,12 +38,12 @@ namespace Backpropagation
             return saida * (1.0 * saida);
         }
 
-        public BackpropagationClass.LayerType getLayerType()
+        public Backpropagation.LayerType getLayerType()
         {
             return layerType;
         }
 
-        public void setLayerType(BackpropagationClass.LayerType layerType)
+        public void setLayerType(Backpropagation.LayerType layerType)
         {
             this.layerType = layerType;
         }

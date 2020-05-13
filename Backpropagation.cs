@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Backpropagation
 {
-    public class BackpropagationClass
+    public class Backpropagation
     {
         public enum LayerType { E, O, S }
         //E -> camada de entrada
@@ -14,16 +14,16 @@ namespace Backpropagation
         //S -> camada de saida
 
         //possui dois neuronios na entrada, e dois na oculto
-        readonly static int NEURONIO_ENTRADA = 2;
-        readonly static int NEURONIO_OCULTO = 2;
-        readonly static int NEURONIO_SAIDA = 1;
-        readonly static double TAXA_APRENDIZAGEM = 0.8;
+        public readonly static int NEURONIO_ENTRADA = 2;
+        public readonly static int NEURONIO_OCULTO = 2;
+        public readonly static int NEURONIO_SAIDA = 1;
+        public readonly static double TAXA_APRENDIZAGEM = 0.8;
 
         //cria uma matriz de neuronios
         private Neuronio[] neuronios = new Neuronio[NEURONIO_ENTRADA + NEURONIO_OCULTO + NEURONIO_SAIDA];
 
         //vai instaciar os neuronis de entrada, oculto e saida
-        public BackpropagationClass()
+        public Backpropagation()
         {
             for (int i = 0; i < NEURONIO_ENTRADA; i++)
             {
@@ -42,7 +42,7 @@ namespace Backpropagation
         }
 
         //executa a rede TODO: entender
-        public BackpropagationClass busca(double []entrada)
+        public Backpropagation busca(double[] entrada)
         {
             double weightedSum = 0;
 
@@ -81,7 +81,7 @@ namespace Backpropagation
         }
 
         //propaga o erro
-        public BackpropagationClass recalculaErro(double resultado)
+        public Backpropagation recalculaErro(double resultado)
         {
 
             //neuronio 4 é a saida, ele possui dois pessos
