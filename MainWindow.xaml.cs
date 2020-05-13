@@ -14,6 +14,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Drawing;
+using System.IO;
 
 namespace Backpropagation
 {
@@ -35,6 +37,7 @@ namespace Backpropagation
             if (abrirImagem.ShowDialog() == true) {
                 imgImagem.Source = new BitmapImage(new Uri(abrirImagem.FileName));
                 bitmapImagem = new Bitmap(abrirImagem.FileName);
+                pegacor();
             }
         }
 
@@ -43,6 +46,37 @@ namespace Backpropagation
         }
 
         private void btnTreinar_Click(object sender, RoutedEventArgs e) {
+
+        }
+
+        private void pegacor()
+        {
+            Sobel sobel = new Sobel();
+            System.Drawing.Image imgFinal = sobel.sobel(bitmapImagem);
+
+            Bitmap imagem = new Bitmap(imgFinal);
+            int width = imagem.Width;
+            int height = imagem.Height;
+            int[] freq = new int[256];
+
+            for (int i = 0; i < height; i++)
+            {
+                for (int j = 0; j < width; j++)
+                {
+                    System.Drawing.Color cor = imagem.GetPixel(j, i);
+                    freq[cor.R]++;
+                }
+            }
+
+
+            StreamWriter x;
+            string CaminhoNome = "D:\\Rodrigo\\Desktop\\VERIFICAR\\arq01.txt";
+            x = File.CreateText(CaminhoNome);
+            for (int i = 0; i < freq.Length; i++)
+            {
+                x.WriteLine(i+": " + freq[i]); ;
+            }
+            x.Close();
 
         }
     }
