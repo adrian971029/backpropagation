@@ -94,8 +94,8 @@
                        FontSize="16"
                        Margin="16"/>
 
-            <Image x:Name="imgResultado"
-                   Height="320"
+            <TextBox x:Name="imgResultado"
+                    Height="320"
                    Margin="16"/>
 
         </StackPanel>

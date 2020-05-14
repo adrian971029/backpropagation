@@ -1,0 +1,496 @@
+epoca: 1
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 2
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 3
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 4
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 5
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 6
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 7
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 8
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 9
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 10
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 11
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 12
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 13
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 14
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 15
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 16
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 17
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 18
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 19
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 20
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 21
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 22
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 23
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 24
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 25
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 26
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 27
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 28
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 29
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 30
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 31
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 32
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 33
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 34
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 35
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 36
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 37
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 38
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 39
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 40
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 41
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 42
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 43
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 44
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 45
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 46
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 47
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 48
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 49
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 50
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 51
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 52
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 53
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 54
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 55
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 56
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 57
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 58
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 59
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 60
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 61
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 62
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 63
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 64
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 65
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 66
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 67
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 68
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 69
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 70
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 71
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 72
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 73
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 74
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 75
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 76
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 77
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 78
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 79
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 80
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 81
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 82
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 83
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 84
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 85
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 86
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 87
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 88
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 89
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 90
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 91
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 92
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 93
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 94
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 95
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 96
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 97
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 98
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+epoca: 99
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=0, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+Neuronio{layerType=E, threshold=0,311763611068839, peso=0,311763611068839, saida=1, erro=0}
+fIM
