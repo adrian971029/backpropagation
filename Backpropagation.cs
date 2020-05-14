@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Backpropagation
 {
-    public class Backpropagation
+    public class BackpropagationClass
     {
         public enum LayerType { E, O, S }
         //E -> camada de entrada
@@ -23,7 +23,7 @@ namespace Backpropagation
         private Neuronio[] neuronios = new Neuronio[NEURONIO_ENTRADA + NEURONIO_OCULTO + NEURONIO_SAIDA];
 
         //vai instaciar os neuronis de entrada, oculto e saida
-        public Backpropagation()
+        public BackpropagationClass()
         {
             for (int i = 0; i < NEURONIO_ENTRADA; i++)
             {
@@ -42,7 +42,7 @@ namespace Backpropagation
         }
 
         //executa a rede TODO: entender
-        public Backpropagation busca(double[] entrada)
+        public BackpropagationClass busca(double[] entrada)
         {
             double weightedSum = 0;
 
@@ -59,8 +59,8 @@ namespace Backpropagation
                     case LayerType.O:
                         //calcula a soma ponderada
                         weightedSum = neuronios[i].getThreshold() +
-                                neuronios[i].getPeso()[0] * neuronios[0].getSaida() +
-                                neuronios[i].getPeso()[1] * neuronios[1].getSaida();
+                                      neuronios[i].getPeso()[0] * neuronios[0].getSaida() +
+                                      neuronios[i].getPeso()[1] * neuronios[1].getSaida();
 
                         //calcula a saida com base no resultado da soma pondeirada
                         neuronios[i].sigmoide(weightedSum);
@@ -81,7 +81,7 @@ namespace Backpropagation
         }
 
         //propaga o erro
-        public Backpropagation recalculaErro(double resultado)
+        public BackpropagationClass recalculaErro(double resultado)
         {
 
             //neuronio 4 é a saida, ele possui dois pessos
@@ -111,6 +111,17 @@ namespace Backpropagation
 
             return this;
         }
+
+        public override string ToString()
+        {
+            for (int i = 0; i < neuronios.Length; i++)
+            {
+                return neuronios[i].ToString();
+            }
+            return "Se fudeo";
+        }
+
+
 
     }
 }

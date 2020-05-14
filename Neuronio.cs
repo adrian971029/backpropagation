@@ -8,20 +8,20 @@ namespace Backpropagation
 {
     public class Neuronio
     {
-       //representara um neuronio do Backpropagation
+        //representara um neuronio do Backpropagation
 
         //tipo de camada a qual o neuronio pertence
-        private Backpropagation.LayerType layerType;
+        private BackpropagationClass.LayerType layerType;
         //limiar definida aleatoriamente TODO: entender o que e
-        private double threshold = 0.5 - 1;//TODO: substituir 1 por valor aleatorio
+        private double threshold = 0.5 - new Random().NextDouble();//TODO: substituir 1 por valor aleatorio
         //pesos definidos aleatoriamente
-        private double[] peso = { 0.5 - 1, 0.5 - 1 };//TODO: substituir 1 por valor aleatorio
+        private double[] peso = { 0.5 - new Random().NextDouble(), 0.5 - new Random().NextDouble() };//TODO: substituir 1 por valor aleatorio
         //saida
         private double saida = 0;
         //erro
         private double erro = 0;
 
-        public Neuronio(Backpropagation.LayerType layerType)
+        public Neuronio(BackpropagationClass.LayerType layerType)
         {
             this.layerType = layerType;
         }
@@ -38,12 +38,12 @@ namespace Backpropagation
             return saida * (1.0 * saida);
         }
 
-        public Backpropagation.LayerType getLayerType()
+        public BackpropagationClass.LayerType getLayerType()
         {
             return layerType;
         }
 
-        public void setLayerType(Backpropagation.LayerType layerType)
+        public void setLayerType(BackpropagationClass.LayerType layerType)
         {
             this.layerType = layerType;
         }
@@ -88,6 +88,20 @@ namespace Backpropagation
             this.erro = erro;
         }
 
+        public override string ToString()
+        {
+            for (int i = 0; i < peso.Length; i++)
+            {
+                return "Neuronio{" +
+                     "layerType=" + layerType +
+                    ", threshold=" + threshold +
+                     ", peso=" + peso[i] +
+                    ", saida=" + saida +
+                     ", erro=" + erro +
+                    '}';
+            }
+            return "se fufu";
+        }
 
     }
 

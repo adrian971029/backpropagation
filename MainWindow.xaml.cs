@@ -26,14 +26,33 @@ namespace Backpropagation
     {
         private Bitmap bitmapImagem;
         public readonly int EPOCAS_TREINAMENTO = 10000;
-        public readonly double[,,] DADOS_TREINAMENTO_OU = new Double[,,] {{{0,0,1},
-                                                              {0,1,1},
-                                                              {1,0,1},
-                                                              {1,1,1}}};
-        public readonly Double[,,] DADOS_TREINAMENTO_E = new Double[,,] {{{0,0,1},
-                                                             {0,1,0},
-                                                             {1,0,0},
-                                                             {1,1,1}}};
+
+        internal static double[][][] DADOS = new double[][][]
+        {
+            new double[][]
+            {
+                new double[] {0, 0},
+                 new double[] {0}
+            },
+            new double[][]
+            {
+               new double[] {0, 1},
+                new double[] {1}
+            },
+            new double[][]
+            {
+                new double[] {1, 0},
+                new double[] {1}
+            },
+            new double[][]
+            {
+                new double[] {1, 1},
+                new double[] {0}
+            }
+
+        };
+
+
 
 
 
@@ -56,13 +75,14 @@ namespace Backpropagation
             StreamWriter x;
             string CaminhoNome = "D:\\Rodrigo\\Desktop\\VERIFICAR\\execucao.txt";
             x = File.CreateText(CaminhoNome);
-            Backpropagation backpropagation = new Backpropagation();
+            BackpropagationClass backpropagation = new BackpropagationClass();
             double[] result = new double[] { 0, 0, 0, 0 };
-            for (int i = 0; i < DADOS_TREINAMENTO_E.Length; i++)
+            for (int i = 0; i < DADOS.Length; i++)
             {
-                result[i] = backpropagation.busca(DADOS_TREINAMENTO_E[i,0]).getNeuronios()[Backpropagation.NEURONIO_ENTRADA + Backpropagation.NEURONIO_OCULTO].getSaida();
-                x.WriteLine(result); ;
+                result[i] = backpropagation.busca(DADOS[i][0]).getNeuronios()[BackpropagationClass.NEURONIO_ENTRADA + BackpropagationClass.NEURONIO_OCULTO].getSaida();
+                x.WriteLine(result[i]); ;
             }
+            x.WriteLine("fIM");
             x.Close();
         }
 
@@ -70,11 +90,19 @@ namespace Backpropagation
             StreamWriter x;
             string CaminhoNome = "D:\\Rodrigo\\Desktop\\VERIFICAR\\treinamento.txt";
             x = File.CreateText(CaminhoNome);
-            Backpropagation backpropagation = new Backpropagation();
-            for (int i = 0; i < DADOS_TREINAMENTO_E.Length; i++)
+            BackpropagationClass backpropagation = new BackpropagationClass();
+            for (int j = 1; j < EPOCAS_TREINAMENTO; j++)
             {
-                x.WriteLine(backpropagation.busca(DADOS_TREINAMENTO_E[i,0]).recalculaErro(DADOS_TREINAMENTO_E[i, 1, 0]));
+                x.WriteLine("epoca: " + j);
+                
+                for (int i = 0; i < DADOS.Length; i++)
+                {
+                    x.WriteLine(backpropagation.busca(DADOS[i][0]).recalculaErro(DADOS[i][1][0]));
+                }
             }
+
+            
+            x.WriteLine("fIM");
             x.Close();
         }
 
@@ -105,6 +133,7 @@ namespace Backpropagation
             {
                 x.WriteLine(i + ": " + freq[i]); ;
             }
+            x.WriteLine("fIM");
             x.Close();
 
         }
